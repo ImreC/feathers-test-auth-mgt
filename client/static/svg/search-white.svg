@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="49px" viewBox="0 0 50 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="desktop/header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1278.000000, -26.000000)">
+        <g id="header" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group" transform="translate(628.000000, 0.000000)">
+                <g id="search" transform="translate(650.000000, 26.000000)">
+                    <path d="M18.5708654,36.0291262 C11.1994384,36.0782856 4.52619081,31.7204838 1.67079095,24.9929442 C-1.18460891,18.2654046 0.341942916,10.4971992 5.53680061,5.31987665 C10.7316583,0.142554109 18.5685418,-1.42106966 25.3837961,1.35998189 C32.1990505,4.14103343 36.646275,10.7173443 36.6464423,18.0145631 C36.6762885,27.9285911 28.5859131,35.9916575 18.5708654,36.0291262 Z M18.5708654,2.0776699 C12.0483689,2.02850089 6.1404489,5.88007056 3.60990525,11.8312177 C1.0793616,17.7823648 2.42632604,24.6569163 7.02089951,29.2400333 C11.615473,33.8231504 18.5495929,35.2090346 24.5805638,32.7495864 C30.6115346,30.2901383 34.547407,24.4714382 34.5475962,18.0145631 C34.57204,9.25019217 27.4244937,2.12046804 18.5708654,2.0776699 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" transform="translate(36.891933, 36.035697) rotate(-45.000000) translate(-36.891933, -36.035697) " x="35.6659714" y="28.6546289" width="2.45192308" height="14.7621359"></rect>
+                    <rect id="Rectangle-path" transform="translate(40.945382, 40.048099) rotate(45.000000) translate(-40.945382, -40.048099) " x="30.2329297" y="36.6403317" width="21.4249038" height="6.81553398" rx="3.40776699"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

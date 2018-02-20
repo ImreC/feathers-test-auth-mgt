@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="desktop/footer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-313.000000, -49.000000)" opacity="0.5">
+        <g id="footer" fill="#000000">
+            <g id="join-the-club" transform="translate(114.000000, 0.000000)">
+                <g transform="translate(2.000000, 49.000000)" id="facebook">
+                    <path d="M227,5 C227,2.37291667 224.62875,0 222,0 L202,0 C199.37125,0 197,2.37291667 197,5 L197,25 C197,27.6270833 199.37125,30 202,30 L212,30 L212,18.6670833 L208.332917,18.6670833 L208.332917,13.6670833 L212,13.6670833 L212,11.71875 C212,8.35916667 214.522917,5.33375 217.625,5.33375 L221.66625,5.33375 L221.66625,10.33375 L217.625,10.33375 C217.1825,10.33375 216.66625,10.8708333 216.66625,11.675 L216.66625,13.6670833 L221.66625,13.6670833 L221.66625,18.6670833 L216.66625,18.6670833 L216.66625,30 L222,30 C224.62875,30 227,27.6270833 227,25 L227,5 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

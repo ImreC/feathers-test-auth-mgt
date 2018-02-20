@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="30px" viewBox="0 0 46 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop-HD/04.-Category-page---filter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-111.000000, -351.000000)">
+        <g id="style-" transform="translate(111.000000, 348.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="noun_1091687" transform="translate(0.000000, 3.000000)">
+                <path d="M28.6779661,28.9322034 C28.2711864,28.5254237 28.0677966,28.0169492 28.0677966,27.5084746 C28.0677966,27 28.2711864,26.4915254 28.6779661,26.0847458 L37.9322034,16.8305085 L2.03389831,16.8305085 C0.915254237,16.8305085 0,15.9152542 0,14.7966102 C0,13.6779661 0.915254237,12.7627119 2.03389831,12.7627119 L37.9322034,12.7627119 L28.6779661,3.50847458 C27.8644068,2.69491525 27.8644068,1.42372881 28.6779661,0.610169492 C29.4915254,-0.203389831 30.7627119,-0.203389831 31.5762712,0.610169492 L45.7627119,14.7966102 L31.5762712,28.9322034 C30.7627119,29.7457627 29.4915254,29.7457627 28.6779661,28.9322034 Z" id="arrow-right"></path>
+            </g>
+        </g>
+    </g>
+</svg>
