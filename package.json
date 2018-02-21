@@ -18,7 +18,7 @@
   },
   "scripts": {
     "build": "nuxt build",
-    "dev": "cross-env DEBUG=feathers:*  HOST=localhost PORT=3000 nodemon --watch src/ --watch config/ src/index.js",
+    "dev": "cross-env DEBUG=@feathersjs:* HOST=localhost PORT=3000 BASE_URL=http://localhost:3000 nodemon --watch src/ --watch config/ src/index.js",
     "prestart": "npm run build",
     "start": "cross-env HOST=0.0.0.0 PORT=3030 NODE_ENV=production BASE_URL=http://0.0.0.0:3030 node src/",
     "test": "mocha test/services/",
