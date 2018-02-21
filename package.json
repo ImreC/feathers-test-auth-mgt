@@ -18,11 +18,9 @@
   },
   "scripts": {
     "build": "nuxt build",
-    "dev": "set HOST=localhost&& set PORT=3000&& set BASE_URL=http://localhost:3000&& set DEBUG=nuxt:*&& set DEBUG=feathers:* && nodemon --watch src/ --watch config/ src/index.js",
-    "dev-linux": "HOST=localhost PORT=3000 BASE_URL=http://localhost:3000 DEBUG=nuxt:* nodemon --watch src/ --watch config/ src/index.js",
+    "dev": "cross-env DEBUG=feathers:* nodemon --watch src/ --watch config/ src/index.js",
     "prestart": "npm run build",
-    "start": "HOST=0.0.0.0 PORT=3030 NODE_ENV=production BASE_URL=https://dev.silksage.com node src/",
-    "prod-test-win": "set HOST=localhost&& set PORT=3000&& set NODE_ENV=production&& set BASE_URL=https://localhost:3000&& node src/",
+    "start": "cross-env HOST=0.0.0.0 PORT=3030 NODE_ENV=production BASE_URL=http://0.0.0.0:3030 node src/",
     "test": "mocha test/services/",
     "dev-debug": "node --inspect node_modules/.bin/nuxt"
   },
@@ -63,6 +61,7 @@
     "winston": "^2.4.0"
   },
   "devDependencies": {
+    "cross-env": "^5.1.3",
     "eslint": "^4.17.0",
     "mocha": "^4.1.0",
     "node-sass": "^4.7.2",

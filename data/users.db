@@ -1,2 +1,2 @@
-{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
 {"email":"gelens.imre@gmail.com","password":"$2a$12$YvIfnDjZyZMeGbYeBX0nEO5E.D4p6B4xijRf3yCJIIvvnZUUfyJZG","isVerified":false,"verifyExpires":1519573848854,"verifyToken":"f0b935ac7c975f1636a0d428804b55","verifyShortToken":"150477","verifyChanges":{},"_id":"UBYjwqkxicLBsrBz"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
